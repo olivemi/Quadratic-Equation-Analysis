@@ -37,4 +37,4 @@ This project is _in finished_ , however I might go back and redo it.
 Going back on this project I came across an idea of remaking it into a from app, with an interactive interface and pictures of the solutions
 
 ## Feedback
-Created by [@olivemi] - feel free to leave feedback!
+Feel free to leave feedback!
